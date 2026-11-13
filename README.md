@@ -1,9 +1,22 @@
+<p align="center"><img src="docs/banner.png" alt="Fréquentation des cinémas en France" width="100%"></p>
+
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-0B1A4A?style=flat-square&logo=powerbi&logoColor=white">
+  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-0B1A4A?style=flat-square">
+  <img alt="DAX" src="https://img.shields.io/badge/DAX-0B1A4A?style=flat-square">
+  <img alt="RLS" src="https://img.shields.io/badge/RLS-0B1A4A?style=flat-square">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-0B1A4A?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
+
 # Fréquentation des cinémas en France, 1938–2020 · Power BI
 
 **Franck Nankeng** · Projet de ma certification Power BI · [LinkedIn](https://www.linkedin.com/in/franck-nankeng-51b43b297/)
 
 Rapport Power BI qui retrace l'évolution de la fréquentation des salles françaises : entrées, recettes et séances
 sur plus de 80 ans, part des films français, américains et européens, et répartition des entrées selon le jour de la semaine.
+
+<p align="center"><img src="docs/apercu-donnees.png" alt="Aperçu des données" width="100%"></p>
+<p align="center"><sub>Aperçu calculé à partir des fichiers sources du dépôt</sub></p>
 
 ## Questions traitées
 - Comment les entrées, les recettes et le nombre de séances ont-ils évolué depuis 1938 ?
@@ -35,3 +48,13 @@ redéfinir le chemin du dossier `fichiers d'appels` dans *Transformer les donné
 ---
 *English — Power BI report on French cinema attendance since 1938: Power Query cleaning (unpivot, null handling, date building),
 a star-like data model with bidirectional filters, a row-level security role, and an interactive report.*
+
+---
+
+### Autres projets
+
+| [**Groupe Orvane**](https://github.com/Nganou1/orvane-powerbi) | [**Horizon_Contrat**](https://github.com/Nganou1/horizon-contrat-excel) | [**Process mining achats**](https://github.com/Nganou1/process-mining-achats) | [**Projets IA & ML**](https://github.com/Nganou1/projets-ia) |
+|---|---|---|---|
+| Power BI · 143 mesures DAX · RLS | Excel expert · Power Pivot · VBA | Python · PM4Py · audit SI | Python · machine learning · deep learning |
+
+[Tous mes dépôts](https://github.com/Nganou1?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/franck-nankeng-51b43b297/)
